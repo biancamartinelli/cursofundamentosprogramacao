@@ -43,6 +43,6 @@ void menu(void){
     printf("============= MENU ==============\n");
     printf("1) Ler 2 numeros e a mostrar a sua soma\n");
     printf("2) Ler um salario e mostrar um aumento de 4%%\n");
-    printf("\n Digite sua opcao: ");
+    printf("\n Digite sua opcao : ");
 
   }
