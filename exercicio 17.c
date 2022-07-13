@@ -1,7 +1,7 @@
-//Faça um algortimo que leia 10 números e ao final mostre o triplo soa números lidos//
+//Faça um algortimo que leia 10 números e ao final mostre o triplo dos números lidos//
 
 #include <stdlib.h>
-#include <stdio.>
+#include <stdio.h>
 
 int main(void){
 int i;

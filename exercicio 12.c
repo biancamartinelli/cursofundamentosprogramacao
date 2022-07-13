@@ -1,4 +1,4 @@
-//Divisão: Crie um algortimo que mostre os números pares compreendidos entre 1 e 50//
+//Divisão: Crie um algoritmo que mostre os números pares compreendidos entre 1 e 50//
 
 #include <stdlib.h>
 #include <stdio.h>
