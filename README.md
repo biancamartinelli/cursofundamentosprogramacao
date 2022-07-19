@@ -1,8 +1,15 @@
-Aqui estão com mais detalhes os exercícios que eu fiz durante o curso de: "Fundamentos da Programação".
+## Exercícios que eu fiz durante o curso de: "Fundamentos da Programação".
 
-Durante o curso foi utilizado a linguagem C.
+![fundamentosdeprogramação](https://user-images.githubusercontent.com/107266212/179842080-9a093938-9997-4e50-a2a6-da63620f23f2.png)
 
-Listas de Exercícios:
+## 💡 Acesso ao curso
+[Você pode acessar o link curso aqui](https://www.udemy.com/course/programacao-do-zero/).
+
+
+### Durante o curso foi utilizado a linguagem C.
+
+## Listas de Exercícios:
+
 
  1- Faça um algoritmo aonde se pede dois números inteiros e façaa multiplicação deles e o resultado apareça na tela.
  
@@ -50,3 +57,42 @@ Listas de Exercícios:
  17- Fiz um algortimo que leia 10 números e ao final mostre o triplo dos números lidos
  
  18- Fiz um algortimo que leia 10 números e ao final informe quantos números lidos foram maior que 25
+ 
+ 19- Dado o vetor abaixo, transfira os valores para um novo vetor (Y), mas na ordem inversa
+int x[] = {11,22,33,44,55,66,77,88,99}
+
+20- Faça um algoritmo que preencha uma matriz 2x3 com números inteiros e ao final, imprima os valores atribuídos à matriz
+
+21- Uma matriz pode ser inicializada na declaração:
+int x [2] [2] = {65, 76, 87, 78}
+
+22- Fiz um algoritmo que preencha uma matriz 4x3 com números inteiros e ao final mostre o maior número lido
+
+23- Fiz um algoritmo que preencha uma matriz 3x3 com números inteiros e ao final mostre os números que estão na diagonal principal além da soma deles
+
+24- Fiz um algoritmo que preencha uma matriz 2x5 com números inteiros e ao final preencha um vetor x[5] com soma de cada uma das da matriz
+
+25- Faça um algoritmo que mostre o menu abaixo e execute suas funcionalidades
+
+=============== MENU ===============
+
+1- ler 2 números e mostrar sua soma
+
+2 - ler um salário e mostrar aumento de 4%
+
+digite sua opção:
+
+26- Faça um algoritmo que mostre o menu abaixo e execute suas funcionalidades.
+
+========= MENU =========
+
+1 preencher um vetor x[5] e mostrar a soma dos elementos
+
+2 Preencher uma matriz m[4x4] e mostrar todos os numeros pares que estão na matriz
+
+digite sua opção:
+
+27- 
+
+
+
