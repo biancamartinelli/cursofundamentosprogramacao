@@ -6,9 +6,26 @@
 [Você pode acessar o link curso aqui](https://www.udemy.com/course/programacao-do-zero/).
 
 
-### Durante o curso foi utilizado a linguagem C.
+### O que foi ensinado no curso:
 
-## Listas de Exercícios:
+📍 Criar fluxogramas
+
+📍 Entender algoritmos
+
+📍 Entender portugol
+
+📍 Entender o básico da linguagem C
+
+📍 Resolver algoritmos
+
+📍 Entender sobre funções em linguagem C
+
+📍 Entender sobre ponteiros em linguagem C
+
+📍 Entender sobre strings em linguagem C
+
+
+## Listas de exercícios desenvolvidos durante o curso:
 
 
  1- Faça um algoritmo aonde se pede dois números inteiros e façaa multiplicação deles e o resultado apareça na tela.
