@@ -28,7 +28,7 @@
 ## Listas de exercícios desenvolvidos durante o curso:
 
 
- 1- Faça um algoritmo aonde se pede dois números inteiros e façaa multiplicação deles e o resultado apareça na tela.
+ 1- Faça um algoritmo aonde se pede dois números inteiros e faça a multiplicação deles e o resultado apareça na tela.
  
  2- Fiz um algoritmo que leia o nome de uma pessoa, leia a idade, leia o salário e ao final mostre na tela o nome, e mostre também o salário com aumento de 30% 
  
