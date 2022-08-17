@@ -109,7 +109,9 @@ digite sua opção:
 
 digite sua opção:
 
-27- 
+27- Exercício sobre ponteiros
+
+28- Criando um "menu" com loop infinito
 
 
 
